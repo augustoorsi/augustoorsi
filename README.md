@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/augusto-ernesto-orsi-347887268/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/augusto-ernesto-orsi-347887268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Augusto%20Ernesto%20Orsi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
