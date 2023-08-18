@@ -37,7 +37,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/augusto-ernesto-orsi-347887268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Augusto%20Ernesto%20Orsi-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:oaugustoernesto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oaugustoernesto@gmail.com.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:oaugustoernesto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oaugustoernesto@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
